@@ -1,0 +1,2192 @@
+[
+  {
+    "date": "January 1",
+    "reading1": "Genesis 1, 2",
+    "reading2": "Psalms 1, 2",
+    "reading3": "Matthew 1, 2"
+  },
+  {
+    "date": "January 2",
+    "reading1": "Genesis 3, 4",
+    "reading2": "Psalms 3–5",
+    "reading3": "Matthew 3, 4"
+  },
+  {
+    "date": "January 3",
+    "reading1": "Genesis 5, 6",
+    "reading2": "Psalms 6–8",
+    "reading3": "Matthew 5"
+  },
+  {
+    "date": "January 4",
+    "reading1": "Genesis 7, 8",
+    "reading2": "Psalms 9, 10",
+    "reading3": "Matthew 6"
+  },
+  {
+    "date": "January 5",
+    "reading1": "Genesis 9, 10",
+    "reading2": "Psalms 11–13",
+    "reading3": "Matthew 7"
+  },
+  {
+    "date": "January 6",
+    "reading1": "Genesis 11, 12",
+    "reading2": "Psalms 14–16",
+    "reading3": "Matthew 8"
+  },
+  {
+    "date": "January 7",
+    "reading1": "Genesis 13, 14",
+    "reading2": "Psalms 17",
+    "reading3": "Matthew 9"
+  },
+  {
+    "date": "January 8",
+    "reading1": "Genesis 15, 16",
+    "reading2": "Psalms 18",
+    "reading3": "Matthew 10"
+  },
+  {
+    "date": "January 9",
+    "reading1": "Genesis 17, 18",
+    "reading2": "Psalms 19–21",
+    "reading3": "Matthew 11"
+  },
+  {
+    "date": "January 10",
+    "reading1": "Genesis 19",
+    "reading2": "Psalms 22",
+    "reading3": "Matthew 12"
+  },
+  {
+    "date": "January 11",
+    "reading1": "Genesis 20, 21",
+    "reading2": "Psalms 23–25",
+    "reading3": "Matthew 13"
+  },
+  {
+    "date": "January 12",
+    "reading1": "Genesis 22, 23",
+    "reading2": "Psalms 26–28",
+    "reading3": "Matthew 14"
+  },
+  {
+    "date": "January 13",
+    "reading1": "Genesis 24",
+    "reading2": "Psalms 29, 30",
+    "reading3": "Matthew 15"
+  },
+  {
+    "date": "January 14",
+    "reading1": "Genesis 25, 26",
+    "reading2": "Psalms 31",
+    "reading3": "Matthew 16"
+  },
+  {
+    "date": "January 15",
+    "reading1": "Genesis 27",
+    "reading2": "Psalms 32",
+    "reading3": "Matthew 17"
+  },
+  {
+    "date": "January 16",
+    "reading1": "Genesis 28, 29",
+    "reading2": "Psalms 33",
+    "reading3": "Matthew 18"
+  },
+  {
+    "date": "January 17",
+    "reading1": "Genesis 30",
+    "reading2": "Psalms 34",
+    "reading3": "Matthew 19"
+  },
+  {
+    "date": "January 18",
+    "reading1": "Genesis 31",
+    "reading2": "Psalms 35",
+    "reading3": "Matthew 20"
+  },
+  {
+    "date": "January 19",
+    "reading1": "Genesis 32, 33",
+    "reading2": "Psalms 36",
+    "reading3": "Matthew 21"
+  },
+  {
+    "date": "January 20",
+    "reading1": "Genesis 34, 35",
+    "reading2": "Psalms 37",
+    "reading3": "Matthew 22"
+  },
+  {
+    "date": "January 21",
+    "reading1": "Genesis 36",
+    "reading2": "Psalms 38",
+    "reading3": "Matthew 23"
+  },
+  {
+    "date": "January 22",
+    "reading1": "Genesis 37",
+    "reading2": "Psalms 39, 40",
+    "reading3": "Matthew 24"
+  },
+  {
+    "date": "January 23",
+    "reading1": "Genesis 38",
+    "reading2": "Psalms 41-43",
+    "reading3": "Matthew 25"
+  },
+  {
+    "date": "January 24",
+    "reading1": "Genesis 39, 40",
+    "reading2": "Psalms 44",
+    "reading3": "Matthew 26"
+  },
+  {
+    "date": "January 25",
+    "reading1": "Genesis 41",
+    "reading2": "Psalms 45",
+    "reading3": "Matthew 27"
+  },
+  {
+    "date": "January 26",
+    "reading1": "Genesis 42, 43",
+    "reading2": "Psalms 46-48",
+    "reading3": "Matthew 28"
+  },
+  {
+    "date": "January 27",
+    "reading1": "Genesis 44, 45",
+    "reading2": "Psalms 49",
+    "reading3": "Romans 1, 2"
+  },
+  {
+    "date": "January 28",
+    "reading1": "Genesis 46, 47",
+    "reading2": "Psalms 50",
+    "reading3": "Romans 3, 4"
+  },
+  {
+    "date": "January 29",
+    "reading1": "Genesis 48-50",
+    "reading2": "Psalms 51, 52",
+    "reading3": "Romans 5-6"
+  },
+  {
+    "date": "January 30",
+    "reading1": "Exodus 1, 2",
+    "reading2": "Psalms 53-55",
+    "reading3": "Romans 7, 8"
+  },
+  {
+    "date": "January 31",
+    "reading1": "Exodus 3, 4",
+    "reading2": "Psalms 56, 57",
+    "reading3": "Romans 9"
+  },
+  {
+    "date": "February 1",
+    "reading1": "Exodus 5, 6",
+    "reading2": "Psalms 58, 59",
+    "reading3": "Romans 10, 11"
+  },
+  {
+    "date": "February 2",
+    "reading1": "Exodus 7, 8",
+    "reading2": "Psalms 60, 61",
+    "reading3": "Romans 12"
+  },
+  {
+    "date": "February 3",
+    "reading1": "Exodus 9",
+    "reading2": "Psalms 62, 63",
+    "reading3": "Romans 13, 14"
+  },
+  {
+    "date": "February 4",
+    "reading1": "Exodus 10",
+    "reading2": "Psalms 64, 65",
+    "reading3": "Romans 15, 16"
+  },
+  {
+    "date": "February 5",
+    "reading1": "Exodus 11, 12",
+    "reading2": "Psalms 66, 67",
+    "reading3": "Mark 1"
+  },
+  {
+    "date": "February 6",
+    "reading1": "Exodus 13, 14",
+    "reading2": "Psalms 68",
+    "reading3": "Mark 2"
+  },
+  {
+    "date": "February 7",
+    "reading1": "Exodus 15",
+    "reading2": "Psalms 69",
+    "reading3": "Mark 3"
+  },
+  {
+    "date": "February 8",
+    "reading1": "Exodus 16",
+    "reading2": "Psalms 70, 71",
+    "reading3": "Mark 4"
+  },
+  {
+    "date": "February 9",
+    "reading1": "Exodus 17, 18",
+    "reading2": "Psalms 72",
+    "reading3": "Mark 5"
+  },
+  {
+    "date": "February 10",
+    "reading1": "Exodus 19, 20",
+    "reading2": "Psalms 73",
+    "reading3": "Mark 6"
+  },
+  {
+    "date": "February 11",
+    "reading1": "Exodus 21",
+    "reading2": "Psalms 74",
+    "reading3": "Mark 7"
+  },
+  {
+    "date": "February 12",
+    "reading1": "Exodus 22",
+    "reading2": "Psalms 75, 76",
+    "reading3": "Mark 8"
+  },
+  {
+    "date": "February 13",
+    "reading1": "Exodus 23",
+    "reading2": "Psalms 77",
+    "reading3": "Mark 9"
+  },
+  {
+    "date": "February 14",
+    "reading1": "Exodus 24, 25",
+    "reading2": "Psalms 78",
+    "reading3": "Mark 10"
+  },
+  {
+    "date": "February 15",
+    "reading1": "Exodus 26",
+    "reading2": "Psalms 79, 80",
+    "reading3": "Mark 11"
+  },
+  {
+    "date": "February 16",
+    "reading1": "Exodus 27",
+    "reading2": "Psalms 81, 82",
+    "reading3": "Mark 12"
+  },
+  {
+    "date": "February 17",
+    "reading1": "Exodus 28",
+    "reading2": "Psalms 83, 84",
+    "reading3": "Mark 13"
+  },
+  {
+    "date": "February 18",
+    "reading1": "Exodus 29",
+    "reading2": "Psalms 85, 86",
+    "reading3": "Mark 14"
+  },
+  {
+    "date": "February 19",
+    "reading1": "Exodus 30",
+    "reading2": "Psalms 87, 88",
+    "reading3": "Mark 15, 16"
+  },
+  {
+    "date": "February 20",
+    "reading1": "Exodus 31, 32",
+    "reading2": "Psalms 89",
+    "reading3": "1 Corinthians 1, 2"
+  },
+  {
+    "date": "February 21",
+    "reading1": "Exodus 33, 34",
+    "reading2": "Psalms 90, 91",
+    "reading3": "1 Corinthians 3"
+  },
+  {
+    "date": "February 22",
+    "reading1": "Exodus 35",
+    "reading2": "Psalms 92, 93",
+    "reading3": "1 Corinthians 4, 5"
+  },
+  {
+    "date": "February 23",
+    "reading1": "Exodus 36",
+    "reading2": "Psalms 94, 95",
+    "reading3": "1 Corinthians 6"
+  },
+  {
+    "date": "February 24",
+    "reading1": "Exodus 37",
+    "reading2": "Psalms 96–99",
+    "reading3": "1 Corinthians 7"
+  },
+  {
+    "date": "February 25",
+    "reading1": "Exodus 38",
+    "reading2": "Psalms 100, 101",
+    "reading3": "1 Corinthians 8, 9"
+  },
+  {
+    "date": "February 26",
+    "reading1": "Exodus 39, 40",
+    "reading2": "Psalms 102",
+    "reading3": "1 Corinthians 10"
+  },
+  {
+    "date": "February 27",
+    "reading1": "Leviticus 1, 2",
+    "reading2": "Psalms 103",
+    "reading3": "1 Corinthians 11"
+  },
+  {
+    "date": "February 28",
+    "reading1": "Leviticus 3, 4",
+    "reading2": "Psalms 104",
+    "reading3": "1 Corinthians 12, 13"
+  },
+  {
+    "date": "March 1",
+    "reading1": "Leviticus 5, 6",
+    "reading2": "Psalms 105",
+    "reading3": "1 Corinthians 14"
+  },
+  {
+    "date": "March 2",
+    "reading1": "Leviticus 7",
+    "reading2": "Psalms 106",
+    "reading3": "1 Corinthians 15"
+  },
+  {
+    "date": "March 3",
+    "reading1": "Leviticus 8",
+    "reading2": "Psalms 107",
+    "reading3": "1 Corinthians 16"
+  },
+  {
+    "date": "March 4",
+    "reading1": "Leviticus 9, 10",
+    "reading2": "Psalms 108, 109",
+    "reading3": "2 Corinthians 1, 2"
+  },
+  {
+    "date": "March 5",
+    "reading1": "Leviticus 11",
+    "reading2": "Psalms 110–112",
+    "reading3": "2 Corinthians 3, 4"
+  },
+  {
+    "date": "March 6",
+    "reading1": "Leviticus 12, 13",
+    "reading2": "Psalms 113, 114",
+    "reading3": "2 Corinthians 5–7"
+  },
+  {
+    "date": "March 7",
+    "reading1": "Leviticus 14",
+    "reading2": "Psalms 115, 116",
+    "reading3": "2 Corinthians 8, 9"
+  },
+  {
+    "date": "March 8",
+    "reading1": "Leviticus 15",
+    "reading2": "Psalms 117, 118",
+    "reading3": "2 Corinthians 10, 11"
+  },
+  {
+    "date": "March 9",
+    "reading1": "Leviticus 16",
+    "reading2": "Psalms 119 (1–40)",
+    "reading3": "2 Corinthians 12, 13"
+  },
+  {
+    "date": "March 10",
+    "reading1": "Leviticus 17, 18",
+    "reading2": "Psalms 119 (41–80)",
+    "reading3": "Luke 1"
+  },
+  {
+    "date": "March 11",
+    "reading1": "Leviticus 19",
+    "reading2": "Psalms 119  (81–128)",
+    "reading3": "Luke 2"
+  },
+  {
+    "date": "March 12",
+    "reading1": "Leviticus 20",
+    "reading2": "Psalms 119 (129–176)",
+    "reading3": "Luke 3"
+  },
+  {
+    "date": "March 13",
+    "reading1": "Leviticus 21",
+    "reading2": "Psalms 120–124",
+    "reading3": "Luke 4"
+  },
+  {
+    "date": "March 14",
+    "reading1": "Leviticus 22",
+    "reading2": "Psalms 125–127",
+    "reading3": "Luke 5"
+  },
+  {
+    "date": "March 15",
+    "reading1": "Leviticus 23",
+    "reading2": "Psalms 128–130",
+    "reading3": "Luke 6"
+  },
+  {
+    "date": "March 16",
+    "reading1": "Leviticus 24",
+    "reading2": "Psalms 131–134",
+    "reading3": "Luke 7"
+  },
+  {
+    "date": "March 17",
+    "reading1": "Leviticus 25",
+    "reading2": "Psalms 135, 136",
+    "reading3": "Luke 8"
+  },
+  {
+    "date": "March 18",
+    "reading1": "Leviticus 26",
+    "reading2": "Psalms 137–139",
+    "reading3": "Luke 9"
+  },
+  {
+    "date": "March 19",
+    "reading1": "Leviticus 27",
+    "reading2": "Psalms 140–142",
+    "reading3": "Luke 10"
+  },
+  {
+    "date": "March 20",
+    "reading1": "Numbers 1",
+    "reading2": "Psalms 143, 144",
+    "reading3": "Luke 11"
+  },
+  {
+    "date": "March 21",
+    "reading1": "Numbers 2",
+    "reading2": "Psalms 145–147",
+    "reading3": "Luke 12"
+  },
+  {
+    "date": "March 22",
+    "reading1": "Numbers 3",
+    "reading2": "Psalms 148–150",
+    "reading3": "Luke 13, 14"
+  },
+  {
+    "date": "March 23",
+    "reading1": "Numbers 4",
+    "reading2": "Proverbs 1",
+    "reading3": "Luke 15"
+  },
+  {
+    "date": "March 24",
+    "reading1": "Numbers 5",
+    "reading2": "Proverbs 2",
+    "reading3": "Luke 16"
+  },
+  {
+    "date": "March 25",
+    "reading1": "Numbers 6",
+    "reading2": "Proverbs 3",
+    "reading3": "Luke 17"
+  },
+  {
+    "date": "March 26",
+    "reading1": "Numbers 7",
+    "reading2": "Proverbs 4",
+    "reading3": "Luke 18"
+  },
+  {
+    "date": "March 27",
+    "reading1": "Numbers 8, 9",
+    "reading2": "Proverbs 5",
+    "reading3": "Luke 19"
+  },
+  {
+    "date": "March 28",
+    "reading1": "Numbers 10",
+    "reading2": "Proverbs 6",
+    "reading3": "Luke 20"
+  },
+  {
+    "date": "March 29",
+    "reading1": "Numbers 11",
+    "reading2": "Proverbs 7",
+    "reading3": "Luke 21"
+  },
+  {
+    "date": "March 30",
+    "reading1": "Numbers 12, 13",
+    "reading2": "Proverbs 8, 9",
+    "reading3": "Luke 22"
+  },
+  {
+    "date": "March 31",
+    "reading1": "Numbers 14",
+    "reading2": "Proverbs 10",
+    "reading3": "Luke 23"
+  },
+  {
+    "date": "April 1",
+    "reading1": "Numbers 15",
+    "reading2": "Proverbs 11",
+    "reading3": "Luke 24"
+  },
+  {
+    "date": "April 2",
+    "reading1": "Numbers 16",
+    "reading2": "Proverbs 12",
+    "reading3": "Galatians 1, 2"
+  },
+  {
+    "date": "April 3",
+    "reading1": "Numbers 17, 18",
+    "reading2": "Proverbs 13",
+    "reading3": "Galatians 3, 4"
+  },
+  {
+    "date": "April 4",
+    "reading1": "Numbers 19",
+    "reading2": "Proverbs 14",
+    "reading3": "Galatians 5, 6"
+  },
+  {
+    "date": "April 5",
+    "reading1": "Numbers 20, 21",
+    "reading2": "Proverbs 15",
+    "reading3": "Ephesians 1, 2"
+  },
+  {
+    "date": "April 6",
+    "reading1": "Numbers 22, 23",
+    "reading2": "Proverbs 16",
+    "reading3": "Ephesians 3, 4"
+  },
+  {
+    "date": "April 7",
+    "reading1": "Numbers 24, 25",
+    "reading2": "Proverbs 17",
+    "reading3": "Ephesians 5, 6"
+  },
+  {
+    "date": "April 8",
+    "reading1": "Numbers 26",
+    "reading2": "Proverbs 18",
+    "reading3": "Philippians 1, 2"
+  },
+  {
+    "date": "April 9",
+    "reading1": "Numbers 27",
+    "reading2": "Proverbs 19",
+    "reading3": "Philippians 3, 4"
+  },
+  {
+    "date": "April 10",
+    "reading1": "Numbers 28",
+    "reading2": "Proverbs 20",
+    "reading3": "John 1"
+  },
+  {
+    "date": "April 11",
+    "reading1": "Numbers 29, 30",
+    "reading2": "Proverbs 21",
+    "reading3": "John 2, 3"
+  },
+  {
+    "date": "April 12",
+    "reading1": "Numbers 31",
+    "reading2": "Proverbs 22",
+    "reading3": "John 4"
+  },
+  {
+    "date": "April 13",
+    "reading1": "Numbers 32",
+    "reading2": "Proverbs 23",
+    "reading3": "John 5"
+  },
+  {
+    "date": "April 14",
+    "reading1": "Numbers 33",
+    "reading2": "Proverbs 24",
+    "reading3": "John 6"
+  },
+  {
+    "date": "April 15",
+    "reading1": "Numbers 34",
+    "reading2": "Proverbs 25",
+    "reading3": "John 7"
+  },
+  {
+    "date": "April 16",
+    "reading1": "Numbers 35",
+    "reading2": "Proverbs 26",
+    "reading3": "John 8"
+  },
+  {
+    "date": "April 17",
+    "reading1": "Numbers 36",
+    "reading2": "Proverbs 27",
+    "reading3": "John 9, 10"
+  },
+  {
+    "date": "April 18",
+    "reading1": "Deuteronomy 1",
+    "reading2": "Proverbs 28",
+    "reading3": "John 11"
+  },
+  {
+    "date": "April 19",
+    "reading1": "Deuteronomy 2",
+    "reading2": "Proverbs 29",
+    "reading3": "John 12"
+  },
+  {
+    "date": "April 20",
+    "reading1": "Deuteronomy 3",
+    "reading2": "Proverbs 30",
+    "reading3": "John 13, 14"
+  },
+  {
+    "date": "April 21",
+    "reading1": "Deuteronomy 4",
+    "reading2": "Proverbs 31",
+    "reading3": "John 15, 16"
+  },
+  {
+    "date": "April 22",
+    "reading1": "Deuteronomy 5",
+    "reading2": "Ecclesiastes 1",
+    "reading3": "John 17, 18"
+  },
+  {
+    "date": "April 23",
+    "reading1": "Deuteronomy 6, 7",
+    "reading2": "Ecclesiastes 2",
+    "reading3": "John 19"
+  },
+  {
+    "date": "April 24",
+    "reading1": "Deuteronomy 8, 9",
+    "reading2": "Ecclesiastes 3",
+    "reading3": "John 20, 21"
+  },
+  {
+    "date": "April 25",
+    "reading1": "Deuteronomy 10, 11",
+    "reading2": "Ecclesiastes 4",
+    "reading3": "Acts 1"
+  },
+  {
+    "date": "April 26",
+    "reading1": "Deuteronomy 12",
+    "reading2": "Ecclesiastes 5",
+    "reading3": "Acts 2"
+  },
+  {
+    "date": "April 27",
+    "reading1": "Deuteronomy 13, 14",
+    "reading2": "Ecclesiastes 6",
+    "reading3": "Acts 3, 4"
+  },
+  {
+    "date": "April 28",
+    "reading1": "Deuteronomy 15",
+    "reading2": "Ecclesiastes 7",
+    "reading3": "Acts 5, 6"
+  },
+  {
+    "date": "April 29",
+    "reading1": "Deuteronomy 16",
+    "reading2": "Ecclesiastes 8",
+    "reading3": "Acts 7"
+  },
+  {
+    "date": "April 30",
+    "reading1": "Deuteronomy 17",
+    "reading2": "Ecclesiastes 9",
+    "reading3": "Acts 8"
+  },
+  {
+    "date": "May 1",
+    "reading1": "Deuteronomy 18",
+    "reading2": "Ecclesiastes 10",
+    "reading3": "Acts 9"
+  },
+  {
+    "date": "May 2",
+    "reading1": "Deuteronomy 19",
+    "reading2": "Ecclesiastes 11",
+    "reading3": "Acts 10"
+  },
+  {
+    "date": "May 3",
+    "reading1": "Deuteronomy 20",
+    "reading2": "Ecclesiastes 12",
+    "reading3": "Acts 11, 12"
+  },
+  {
+    "date": "May 4",
+    "reading1": "Deuteronomy 21",
+    "reading2": "Song Solomon 1",
+    "reading3": "Acts 13"
+  },
+  {
+    "date": "May 5",
+    "reading1": "Deuteronomy 22",
+    "reading2": "Song Solomon 2",
+    "reading3": "Acts 14, 15"
+  },
+  {
+    "date": "May 6",
+    "reading1": "Deuteronomy 23",
+    "reading2": "Song Solomon 3",
+    "reading3": "Acts 16, 17"
+  },
+  {
+    "date": "May 7",
+    "reading1": "Deuteronomy 24",
+    "reading2": "Song Solomon 4",
+    "reading3": "Acts 18, 19"
+  },
+  {
+    "date": "May 8",
+    "reading1": "Deuteronomy 25",
+    "reading2": "Song Solomon 5",
+    "reading3": "Acts 20"
+  },
+  {
+    "date": "May 9",
+    "reading1": "Deuteronomy 26",
+    "reading2": "Song Solomon 6",
+    "reading3": "Acts 21, 22"
+  },
+  {
+    "date": "May 10",
+    "reading1": "Deuteronomy 27",
+    "reading2": "Song Solomon 7",
+    "reading3": "Acts 23, 24"
+  },
+  {
+    "date": "May 11",
+    "reading1": "Deuteronomy 28",
+    "reading2": "Song Solomon 8",
+    "reading3": "Acts 25, 26"
+  },
+  {
+    "date": "May 12",
+    "reading1": "Deuteronomy 29",
+    "reading2": "Isaiah 1",
+    "reading3": "Acts 27"
+  },
+  {
+    "date": "May 13",
+    "reading1": "Deuteronomy 30",
+    "reading2": "Isaiah 2",
+    "reading3": "Acts 28"
+  },
+  {
+    "date": "May 14",
+    "reading1": "Deuteronomy 31",
+    "reading2": "Isaiah 3, 4",
+    "reading3": "Colossians 1"
+  },
+  {
+    "date": "May 15",
+    "reading1": "Deuteronomy 32",
+    "reading2": "Isaiah 5",
+    "reading3": "Colossians 2"
+  },
+  {
+    "date": "May 16",
+    "reading1": "Deuteronomy 33, 34",
+    "reading2": "Isaiah 6",
+    "reading3": "Colossians 3, 4"
+  },
+  {
+    "date": "May 17",
+    "reading1": "Joshua 1",
+    "reading2": "Isaiah 7",
+    "reading3": "1 Thessalonians 1, 2"
+  },
+  {
+    "date": "May 18",
+    "reading1": "Joshua 2",
+    "reading2": "Isaiah 8",
+    "reading3": "1 Thessalonians 3, 4"
+  },
+  {
+    "date": "May 19",
+    "reading1": "Joshua 3, 4",
+    "reading2": "Isaiah 9",
+    "reading3": "1 Thessalonians 5"
+  },
+  {
+    "date": "May 20",
+    "reading1": "Joshua 5, 6",
+    "reading2": "Isaiah 10",
+    "reading3": "2 Thessalonians 1, 2"
+  },
+  {
+    "date": "May 21",
+    "reading1": "Joshua 7",
+    "reading2": "Isaiah 11",
+    "reading3": "2 Thessalonians 3"
+  },
+  {
+    "date": "May 22",
+    "reading1": "Joshua 8",
+    "reading2": "Isaiah 12",
+    "reading3": "1 Timothy 1–3"
+  },
+  {
+    "date": "May 23",
+    "reading1": "Joshua 9",
+    "reading2": "Isaiah 13",
+    "reading3": "1 Timothy 4, 5"
+  },
+  {
+    "date": "May 24",
+    "reading1": "Joshua 10",
+    "reading2": "Isaiah 14",
+    "reading3": "1 Timothy 6"
+  },
+  {
+    "date": "May 25",
+    "reading1": "Joshua 11",
+    "reading2": "Isaiah 15",
+    "reading3": "2 Timothy 1"
+  },
+  {
+    "date": "May 26",
+    "reading1": "Joshua 12",
+    "reading2": "Isaiah 16",
+    "reading3": "2 Timothy 2"
+  },
+  {
+    "date": "May 27",
+    "reading1": "Joshua 13",
+    "reading2": "Isaiah 17, 18",
+    "reading3": "2 Timothy 3, 4"
+  },
+  {
+    "date": "May 28",
+    "reading1": "Joshua 14",
+    "reading2": "Isaiah 19",
+    "reading3": "Titus 1–3"
+  },
+  {
+    "date": "May 29",
+    "reading1": "Joshua 15",
+    "reading2": "Isaiah 20, 21",
+    "reading3": "Philemon 1"
+  },
+  {
+    "date": "May 30",
+    "reading1": "Joshua 16",
+    "reading2": "Isaiah 22",
+    "reading3": "Hebrews 1, 2"
+  },
+  {
+    "date": "May 31",
+    "reading1": "Joshua 17",
+    "reading2": "Isaiah 23",
+    "reading3": "Hebrews 3–5"
+  },
+  {
+    "date": "June 1",
+    "reading1": "Joshua 18",
+    "reading2": "Isaiah 24",
+    "reading3": "Hebrews 6, 7"
+  },
+  {
+    "date": "June 2",
+    "reading1": "Joshua 19",
+    "reading2": "Isaiah 25",
+    "reading3": "Hebrews 8, 9"
+  },
+  {
+    "date": "June 3",
+    "reading1": "Joshua 20, 21",
+    "reading2": "Isaiah 26, 27",
+    "reading3": "Hebrews 10"
+  },
+  {
+    "date": "June 4",
+    "reading1": "Joshua 22",
+    "reading2": "Isaiah 28",
+    "reading3": "Hebrews 11"
+  },
+  {
+    "date": "June 5",
+    "reading1": "Joshua 23, 24",
+    "reading2": "Isaiah 29",
+    "reading3": "Hebrews 12"
+  },
+  {
+    "date": "June 6",
+    "reading1": "Judges 1",
+    "reading2": "Isaiah 30",
+    "reading3": "Hebrews 13"
+  },
+  {
+    "date": "June 7",
+    "reading1": "Judges 2, 3",
+    "reading2": "Isaiah 31",
+    "reading3": "James 1"
+  },
+  {
+    "date": "June 8",
+    "reading1": "Judges 4, 5",
+    "reading2": "Isaiah 32",
+    "reading3": "James 2"
+  },
+  {
+    "date": "June 9",
+    "reading1": "Judges 6",
+    "reading2": "Isaiah 33",
+    "reading3": "James 3, 4"
+  },
+  {
+    "date": "June 10",
+    "reading1": "Judges 7, 8",
+    "reading2": "Isaiah 34",
+    "reading3": "James 5"
+  },
+  {
+    "date": "June 11",
+    "reading1": "Judges 9",
+    "reading2": "Isaiah 35",
+    "reading3": "1 Peter 1"
+  },
+  {
+    "date": "June 12",
+    "reading1": "Judges 10, 11",
+    "reading2": "Isaiah 36",
+    "reading3": "1 Peter 2"
+  },
+  {
+    "date": "June 13",
+    "reading1": "Judges 12, 13",
+    "reading2": "Isaiah 37",
+    "reading3": "1 Peter 3–5"
+  },
+  {
+    "date": "June 14",
+    "reading1": "Judges 14, 15",
+    "reading2": "Isaiah 38",
+    "reading3": "2 Peter 1, 2"
+  },
+  {
+    "date": "June 15",
+    "reading1": "Judges 16",
+    "reading2": "Isaiah 39",
+    "reading3": "2 Peter 3"
+  },
+  {
+    "date": "June 16",
+    "reading1": "Judges 17, 18",
+    "reading2": "Isaiah 40",
+    "reading3": "1 John 1, 2"
+  },
+  {
+    "date": "June 17",
+    "reading1": "Judges 19",
+    "reading2": "Isaiah 41",
+    "reading3": "1 John 3, 4"
+  },
+  {
+    "date": "June 18",
+    "reading1": "Judges 20",
+    "reading2": "Isaiah 42",
+    "reading3": "1 John 5"
+  },
+  {
+    "date": "June 19",
+    "reading1": "Judges 21",
+    "reading2": "Isaiah 43",
+    "reading3": "2 & 3 John"
+  },
+  {
+    "date": "June 20",
+    "reading1": "Ruth 1, 2",
+    "reading2": "Isaiah 44",
+    "reading3": "Jude"
+  },
+  {
+    "date": "June 21",
+    "reading1": "Ruth 3, 4",
+    "reading2": "Isaiah 45",
+    "reading3": "Revelation 1, 2"
+  },
+  {
+    "date": "June 22",
+    "reading1": "1 Samuel 1",
+    "reading2": "Isaiah 46, 47",
+    "reading3": "Revelation 3, 4"
+  },
+  {
+    "date": "June 23",
+    "reading1": "1 Samuel 2",
+    "reading2": "Isaiah 48",
+    "reading3": "Revelation 5, 6"
+  },
+  {
+    "date": "June 24",
+    "reading1": "1 Samuel 3",
+    "reading2": "Isaiah 49",
+    "reading3": "Revelation 7–9"
+  },
+  {
+    "date": "June 25",
+    "reading1": "1 Samuel 4",
+    "reading2": "Isaiah 50",
+    "reading3": "Revelation 10, 11"
+  },
+  {
+    "date": "June 26",
+    "reading1": "1 Samuel 5, 6",
+    "reading2": "Isaiah 51",
+    "reading3": "Revelation 12, 13"
+  },
+  {
+    "date": "June 27",
+    "reading1": "1 Samuel 7, 8",
+    "reading2": "Isaiah 52",
+    "reading3": "Revelation 14"
+  },
+  {
+    "date": "June 28",
+    "reading1": "1 Samuel 9",
+    "reading2": "Isaiah 53",
+    "reading3": "Revelation 15, 16"
+  },
+  {
+    "date": "June 29",
+    "reading1": "1 Samuel 10",
+    "reading2": "Isaiah 54",
+    "reading3": "Revelation 17, 18"
+  },
+  {
+    "date": "June 30",
+    "reading1": "1 Samuel 11, 12",
+    "reading2": "Isaiah 55",
+    "reading3": "Revelation 19, 20"
+  },
+  {
+    "date": "July 1",
+    "reading1": "1 Samuel 13",
+    "reading2": "Isaiah 56, 57",
+    "reading3": "Revelation 21, 22"
+  },
+  {
+    "date": "July 2",
+    "reading1": "1 Samuel 14",
+    "reading2": "Isaiah 58",
+    "reading3": "Matthew 1, 2"
+  },
+  {
+    "date": "July 3",
+    "reading1": "1 Samuel 15",
+    "reading2": "Isaiah 59",
+    "reading3": "Matthew 3, 4"
+  },
+  {
+    "date": "July 4",
+    "reading1": "1 Samuel 16",
+    "reading2": "Isaiah 60",
+    "reading3": "Matthew 5"
+  },
+  {
+    "date": "July 5",
+    "reading1": "1 Samuel 17",
+    "reading2": "Isaiah 61",
+    "reading3": "Matthew 6"
+  },
+  {
+    "date": "July 6",
+    "reading1": "1 Samuel 18",
+    "reading2": "Isaiah 62",
+    "reading3": "Matthew 7"
+  },
+  {
+    "date": "July 7",
+    "reading1": "1 Samuel 19",
+    "reading2": "Isaiah 63",
+    "reading3": "Matthew 8"
+  },
+  {
+    "date": "July 8",
+    "reading1": "1 Samuel 20",
+    "reading2": "Isaiah 64",
+    "reading3": "Matthew 9"
+  },
+  {
+    "date": "July 9",
+    "reading1": "1 Samuel 21, 22",
+    "reading2": "Isaiah 65",
+    "reading3": "Matthew 10"
+  },
+  {
+    "date": "July 10",
+    "reading1": "1 Samuel 23",
+    "reading2": "Isaiah 66",
+    "reading3": "Matthew 11"
+  },
+  {
+    "date": "July 11",
+    "reading1": "1 Samuel 24",
+    "reading2": "Jeremiah 1",
+    "reading3": "Matthew 12"
+  },
+  {
+    "date": "July 12",
+    "reading1": "1 Samuel 25",
+    "reading2": "Jeremiah 2",
+    "reading3": "Matthew 13"
+  },
+  {
+    "date": "July 13",
+    "reading1": "1 Samuel 26, 27",
+    "reading2": "Jeremiah 3",
+    "reading3": "Matthew 14"
+  },
+  {
+    "date": "July 14",
+    "reading1": "1 Samuel 28",
+    "reading2": "Jeremiah 4",
+    "reading3": "Matthew 15"
+  },
+  {
+    "date": "July 15",
+    "reading1": "1 Samuel 29, 30",
+    "reading2": "Jeremiah 5",
+    "reading3": "Matthew 16"
+  },
+  {
+    "date": "July 16",
+    "reading1": "1 Samuel 31",
+    "reading2": "Jeremiah 6",
+    "reading3": "Matthew 17"
+  },
+  {
+    "date": "July 17",
+    "reading1": "2 Samuel 1",
+    "reading2": "Jeremiah 7",
+    "reading3": "Matthew 18"
+  },
+  {
+    "date": "July 18",
+    "reading1": "2 Samuel 2",
+    "reading2": "Jeremiah 8",
+    "reading3": "Matthew 19"
+  },
+  {
+    "date": "July 19",
+    "reading1": "2 Samuel 3",
+    "reading2": "Jeremiah 9",
+    "reading3": "Matthew 20"
+  },
+  {
+    "date": "July 20",
+    "reading1": "2 Samuel 4, 5",
+    "reading2": "Jeremiah 10",
+    "reading3": "Matthew 21"
+  },
+  {
+    "date": "July 21",
+    "reading1": "2 Samuel 6",
+    "reading2": "Jeremiah 11",
+    "reading3": "Matthew 22"
+  },
+  {
+    "date": "July 22",
+    "reading1": "2 Samuel 7",
+    "reading2": "Jeremiah 12",
+    "reading3": "Matthew 23"
+  },
+  {
+    "date": "July 23",
+    "reading1": "2 Samuel 8, 9",
+    "reading2": "Jeremiah 13",
+    "reading3": "Matthew 24"
+  },
+  {
+    "date": "July 24",
+    "reading1": "2 Samuel 10",
+    "reading2": "Jeremiah 14",
+    "reading3": "Matthew 25"
+  },
+  {
+    "date": "July 25",
+    "reading1": "2 Samuel 11",
+    "reading2": "Jeremiah 15",
+    "reading3": "Matthew 26"
+  },
+  {
+    "date": "July 26",
+    "reading1": "2 Samuel 12",
+    "reading2": "Jeremiah 16",
+    "reading3": "Matthew 27"
+  },
+  {
+    "date": "July 27",
+    "reading1": "2 Samuel 13",
+    "reading2": "Jeremiah 17",
+    "reading3": "Matthew 28"
+  },
+  {
+    "date": "July 28",
+    "reading1": "2 Samuel 14",
+    "reading2": "Jeremiah 18",
+    "reading3": "Romans 1, 2"
+  },
+  {
+    "date": "July 29",
+    "reading1": "2 Samuel 15",
+    "reading2": "Jeremiah 19",
+    "reading3": "Romans 3, 4"
+  },
+  {
+    "date": "July 30",
+    "reading1": "2 Samuel 16",
+    "reading2": "Jeremiah 20",
+    "reading3": "Romans 5, 6"
+  },
+  {
+    "date": "July 31",
+    "reading1": "2 Samuel 17",
+    "reading2": "Jeremiah 21",
+    "reading3": "Romans 7, 8"
+  },
+  {
+    "date": "August 1",
+    "reading1": "2 Samuel 18",
+    "reading2": "Jeremiah 22",
+    "reading3": "Romans 9"
+  },
+  {
+    "date": "August 2",
+    "reading1": "2 Samuel 19",
+    "reading2": "Jeremiah 23",
+    "reading3": "Romans 10, 11"
+  },
+  {
+    "date": "August 3",
+    "reading1": "2 Samuel 20, 21",
+    "reading2": "Jeremiah 24",
+    "reading3": "Romans 12"
+  },
+  {
+    "date": "August 4",
+    "reading1": "2 Samuel 22",
+    "reading2": "Jeremiah 25",
+    "reading3": "Romans 13, 14"
+  },
+  {
+    "date": "August 5",
+    "reading1": "2 Samuel 23",
+    "reading2": "Jeremiah 26",
+    "reading3": "Romans 15, 16"
+  },
+  {
+    "date": "August 6",
+    "reading1": "2 Samuel 24",
+    "reading2": "Jeremiah 27",
+    "reading3": "Mark 1"
+  },
+  {
+    "date": "August 7",
+    "reading1": "1 Kings 1",
+    "reading2": "Jeremiah 28",
+    "reading3": "Mark 2"
+  },
+  {
+    "date": "August 8",
+    "reading1": "1 Kings 2",
+    "reading2": "Jeremiah 29",
+    "reading3": "Mark 3"
+  },
+  {
+    "date": "August 9",
+    "reading1": "1 Kings 3",
+    "reading2": "Jeremiah 30",
+    "reading3": "Mark 4"
+  },
+  {
+    "date": "August 10",
+    "reading1": "1 Kings 4, 5",
+    "reading2": "Jeremiah 31",
+    "reading3": "Mark 5"
+  },
+  {
+    "date": "August 11",
+    "reading1": "1 Kings 6",
+    "reading2": "Jeremiah 32",
+    "reading3": "Mark 6"
+  },
+  {
+    "date": "August 12",
+    "reading1": "1 Kings 7",
+    "reading2": "Jeremiah 33",
+    "reading3": "Mark 7"
+  },
+  {
+    "date": "August 13",
+    "reading1": "1 Kings 8",
+    "reading2": "Jeremiah 34",
+    "reading3": "Mark 8"
+  },
+  {
+    "date": "August 14",
+    "reading1": "1 Kings 9",
+    "reading2": "Jeremiah 35",
+    "reading3": "Mark 9"
+  },
+  {
+    "date": "August 15",
+    "reading1": "1 Kings 10",
+    "reading2": "Jeremiah 36",
+    "reading3": "Mark 10"
+  },
+  {
+    "date": "August 16",
+    "reading1": "1 Kings 11",
+    "reading2": "Jeremiah 37",
+    "reading3": "Mark 11"
+  },
+  {
+    "date": "August 17",
+    "reading1": "1 Kings 12",
+    "reading2": "Jeremiah 38",
+    "reading3": "Mark 12"
+  },
+  {
+    "date": "August 18",
+    "reading1": "1 Kings 13",
+    "reading2": "Jeremiah 39",
+    "reading3": "Mark 13"
+  },
+  {
+    "date": "August 19",
+    "reading1": "1 Kings 14",
+    "reading2": "Jeremiah 40",
+    "reading3": "Mark 14"
+  },
+  {
+    "date": "August 20",
+    "reading1": "1 Kings 15",
+    "reading2": "Jeremiah 41",
+    "reading3": "Mark 15"
+  },
+  {
+    "date": "August 21",
+    "reading1": "1 Kings 16",
+    "reading2": "Jeremiah 42",
+    "reading3": "Mark 16"
+  },
+  {
+    "date": "August 22",
+    "reading1": "1 Kings 17",
+    "reading2": "Jeremiah 43",
+    "reading3": "1 Corinthians 1, 2"
+  },
+  {
+    "date": "August 23",
+    "reading1": "1 Kings 18",
+    "reading2": "Jeremiah 44",
+    "reading3": "1 Corinthians 3"
+  },
+  {
+    "date": "August 24",
+    "reading1": "1 Kings 19",
+    "reading2": "Jeremiah 45, 46",
+    "reading3": "1 Corinthians 4, 5"
+  },
+  {
+    "date": "August 25",
+    "reading1": "1 Kings 20",
+    "reading2": "Jeremiah 47",
+    "reading3": "1 Corinthians 6"
+  },
+  {
+    "date": "August 26",
+    "reading1": "1 Kings 21",
+    "reading2": "Jeremiah 48",
+    "reading3": "1 Corinthians 7"
+  },
+  {
+    "date": "August 27",
+    "reading1": "1 Kings 22",
+    "reading2": "Jeremiah 49",
+    "reading3": "1 Corinthians 8, 9"
+  },
+  {
+    "date": "August 28",
+    "reading1": "2 Kings 1, 2",
+    "reading2": "Jeremiah 50",
+    "reading3": "1 Corinthians 10"
+  },
+  {
+    "date": "August 29",
+    "reading1": "2 Kings 3",
+    "reading2": "Jeremiah 51",
+    "reading3": "1 Corinthians 11"
+  },
+  {
+    "date": "August 30",
+    "reading1": "2 Kings 4",
+    "reading2": "Jeremiah 52",
+    "reading3": "1 Corinthians 12, 13"
+  },
+  {
+    "date": "August 31",
+    "reading1": "2 Kings 5",
+    "reading2": "Lamentations 1",
+    "reading3": "1 Corinthians 14"
+  },
+  {
+    "date": "September 1",
+    "reading1": "2 Kings 6",
+    "reading2": "Lamentations 2",
+    "reading3": "1 Corinthians 15"
+  },
+  {
+    "date": "September 2",
+    "reading1": "2 Kings 7",
+    "reading2": "Lamentations 3",
+    "reading3": "1 Corinthians 16"
+  },
+  {
+    "date": "September 3",
+    "reading1": "2 Kings 8",
+    "reading2": "Lamentations 4",
+    "reading3": "2 Corinthians 1, 2"
+  },
+  {
+    "date": "September 4",
+    "reading1": "2 Kings 9",
+    "reading2": "Lamentations 5",
+    "reading3": "2 Corinthians 3, 4"
+  },
+  {
+    "date": "September 5",
+    "reading1": "2 Kings 10",
+    "reading2": "Ezekiel 1",
+    "reading3": "2 Corinthians 5–7"
+  },
+  {
+    "date": "September 6",
+    "reading1": "2 Kings 11, 12",
+    "reading2": "Ezekiel 2",
+    "reading3": "2 Corinthians 8, 9"
+  },
+  {
+    "date": "September 7",
+    "reading1": "2 Kings 13",
+    "reading2": "Ezekiel 3",
+    "reading3": "2 Corinthians 10, 11"
+  },
+  {
+    "date": "September 8",
+    "reading1": "2 Kings 14",
+    "reading2": "Ezekiel 4",
+    "reading3": "2 Corinthians 12, 13"
+  },
+  {
+    "date": "September 9",
+    "reading1": "2 Kings 15",
+    "reading2": "Ezekiel 5",
+    "reading3": "Luke 1"
+  },
+  {
+    "date": "September 10",
+    "reading1": "2 Kings 16",
+    "reading2": "Ezekiel 6",
+    "reading3": "Luke 2"
+  },
+  {
+    "date": "September 11",
+    "reading1": "2 Kings 17",
+    "reading2": "Ezekiel 7",
+    "reading3": "Luke 3"
+  },
+  {
+    "date": "September 12",
+    "reading1": "2 Kings 18",
+    "reading2": "Ezekiel 8",
+    "reading3": "Luke 4"
+  },
+  {
+    "date": "September 13",
+    "reading1": "2 Kings 19",
+    "reading2": "Ezekiel 9",
+    "reading3": "Luke 5"
+  },
+  {
+    "date": "September 14",
+    "reading1": "2 Kings 20",
+    "reading2": "Ezekiel 10",
+    "reading3": "Luke 6"
+  },
+  {
+    "date": "September 15",
+    "reading1": "2 Kings 21",
+    "reading2": "Ezekiel 11",
+    "reading3": "Luke 7"
+  },
+  {
+    "date": "September 16",
+    "reading1": "2 Kings 22, 23",
+    "reading2": "Ezekiel 12",
+    "reading3": "Luke 8"
+  },
+  {
+    "date": "September 17",
+    "reading1": "2 Kings 24, 25",
+    "reading2": "Ezekiel 13",
+    "reading3": "Luke 9"
+  },
+  {
+    "date": "September 18",
+    "reading1": "1 Chronicles 1",
+    "reading2": "Ezekiel 14",
+    "reading3": "Luke 10"
+  },
+  {
+    "date": "September 19",
+    "reading1": "1 Chronicles 2",
+    "reading2": "Ezekiel 15",
+    "reading3": "Luke 11"
+  },
+  {
+    "date": "September 20",
+    "reading1": "1 Chronicles 3",
+    "reading2": "Ezekiel 16",
+    "reading3": "Luke 12"
+  },
+  {
+    "date": "September 21",
+    "reading1": "1 Chronicles 4",
+    "reading2": "Ezekiel 17",
+    "reading3": "Luke 13, 14"
+  },
+  {
+    "date": "September 22",
+    "reading1": "1 Chronicles 5",
+    "reading2": "Ezekiel 18",
+    "reading3": "Luke 15"
+  },
+  {
+    "date": "September 23",
+    "reading1": "1 Chronicles 6",
+    "reading2": "Ezekiel 19",
+    "reading3": "Luke 16"
+  },
+  {
+    "date": "September 24",
+    "reading1": "1 Chronicles 7",
+    "reading2": "Ezekiel 20",
+    "reading3": "Luke 17"
+  },
+  {
+    "date": "September 25",
+    "reading1": "1 Chronicles 8",
+    "reading2": "Ezekiel 21",
+    "reading3": "Luke 18"
+  },
+  {
+    "date": "September 26",
+    "reading1": "1 Chronicles 9",
+    "reading2": "Ezekiel 22",
+    "reading3": "Luke 19"
+  },
+  {
+    "date": "September 27",
+    "reading1": "1 Chronicles 10",
+    "reading2": "Ezekiel 23",
+    "reading3": "Luke 20"
+  },
+  {
+    "date": "September 28",
+    "reading1": "1 Chronicles 11",
+    "reading2": "Ezekiel 24",
+    "reading3": "Luke 21"
+  },
+  {
+    "date": "September 29",
+    "reading1": "1 Chronicles 12",
+    "reading2": "Ezekiel 25",
+    "reading3": "Luke 22"
+  },
+  {
+    "date": "September 30",
+    "reading1": "1 Chronicles 13, 14",
+    "reading2": "Ezekiel 26",
+    "reading3": "Luke 23"
+  },
+  {
+    "date": "October 1",
+    "reading1": "1 Chronicles 15",
+    "reading2": "Ezekiel 27",
+    "reading3": "Luke 24"
+  },
+  {
+    "date": "October 2",
+    "reading1": "1 Chronicles 16",
+    "reading2": "Ezekiel 28",
+    "reading3": "Galatians 1, 2"
+  },
+  {
+    "date": "October 3",
+    "reading1": "1 Chronicles 17",
+    "reading2": "Ezekiel 29",
+    "reading3": "Galatians 3, 4"
+  },
+  {
+    "date": "October 4",
+    "reading1": "1 Chronicles 18, 19",
+    "reading2": "Ezekiel 30",
+    "reading3": "Galatians 5, 6"
+  },
+  {
+    "date": "October 5",
+    "reading1": "1 Chronicles 20, 21",
+    "reading2": "Ezekiel 31",
+    "reading3": "Ephesians 1, 2"
+  },
+  {
+    "date": "October 6",
+    "reading1": "1 Chronicles 22",
+    "reading2": "Ezekiel 32",
+    "reading3": "Ephesians 3, 4"
+  },
+  {
+    "date": "October 7",
+    "reading1": "1 Chronicles 23",
+    "reading2": "Ezekiel 33",
+    "reading3": "Ephesians 5, 6"
+  },
+  {
+    "date": "October 8",
+    "reading1": "1 Chronicles 24, 25",
+    "reading2": "Ezekiel 34",
+    "reading3": "Philippians 1, 2"
+  },
+  {
+    "date": "October 9",
+    "reading1": "1 Chronicles 26",
+    "reading2": "Ezekiel 35",
+    "reading3": "Philippians 3, 4"
+  },
+  {
+    "date": "October 10",
+    "reading1": "1 Chronicles 27",
+    "reading2": "Ezekiel 36",
+    "reading3": "John 1"
+  },
+  {
+    "date": "October 11",
+    "reading1": "1 Chronicles 28",
+    "reading2": "Ezekiel 37",
+    "reading3": "John 2, 3"
+  },
+  {
+    "date": "October 12",
+    "reading1": "1 Chronicles 29",
+    "reading2": "Ezekiel 38",
+    "reading3": "John 4"
+  },
+  {
+    "date": "October 13",
+    "reading1": "2 Chronicles 1, 2",
+    "reading2": "Ezekiel 39",
+    "reading3": "John 5"
+  },
+  {
+    "date": "October 14",
+    "reading1": "2 Chronicles 3, 4",
+    "reading2": "Ezekiel 40",
+    "reading3": "John 6"
+  },
+  {
+    "date": "October 15",
+    "reading1": "2 Chronicles 5, 6",
+    "reading2": "Ezekiel 41",
+    "reading3": "John 7"
+  },
+  {
+    "date": "October 16",
+    "reading1": "2 Chronicles 7",
+    "reading2": "Ezekiel 42",
+    "reading3": "John 8"
+  },
+  {
+    "date": "October 17",
+    "reading1": "2 Chronicles 8",
+    "reading2": "Ezekiel 43",
+    "reading3": "John 9, 10"
+  },
+  {
+    "date": "October 18",
+    "reading1": "2 Chronicles 9",
+    "reading2": "Ezekiel 44",
+    "reading3": "John 11"
+  },
+  {
+    "date": "October 19",
+    "reading1": "2 Chronicles 10, 11",
+    "reading2": "Ezekiel 45",
+    "reading3": "John 12"
+  },
+  {
+    "date": "October 20",
+    "reading1": "2 Chronicles 12, 13",
+    "reading2": "Ezekiel 46",
+    "reading3": "John 13, 14"
+  },
+  {
+    "date": "October 21",
+    "reading1": "2 Chronicles 14, 15",
+    "reading2": "Ezekiel 47",
+    "reading3": "John 15, 16"
+  },
+  {
+    "date": "October 22",
+    "reading1": "2 Chronicles 16, 17",
+    "reading2": "Ezekiel 48",
+    "reading3": "John 17, 18"
+  },
+  {
+    "date": "October 23",
+    "reading1": "2 Chronicles 18, 19",
+    "reading2": "Daniel 1",
+    "reading3": "John 19"
+  },
+  {
+    "date": "October 24",
+    "reading1": "2 Chronicles 20",
+    "reading2": "Daniel 2",
+    "reading3": "John 20, 21"
+  },
+  {
+    "date": "October 25",
+    "reading1": "2 Chronicles 21, 22",
+    "reading2": "Daniel 3",
+    "reading3": "Acts 1"
+  },
+  {
+    "date": "October 26",
+    "reading1": "2 Chronicles 23",
+    "reading2": "Daniel 4",
+    "reading3": "Acts 2"
+  },
+  {
+    "date": "October 27",
+    "reading1": "2 Chronicles 24",
+    "reading2": "Daniel 5",
+    "reading3": "Acts 3, 4"
+  },
+  {
+    "date": "October 28",
+    "reading1": "2 Chronicles 25",
+    "reading2": "Daniel 6",
+    "reading3": "Acts 5, 6"
+  },
+  {
+    "date": "October 29",
+    "reading1": "2 Chronicles 26, 27",
+    "reading2": "Daniel 7",
+    "reading3": "Acts 7"
+  },
+  {
+    "date": "October 30",
+    "reading1": "2 Chronicles 28",
+    "reading2": "Daniel 8",
+    "reading3": "Acts 8"
+  },
+  {
+    "date": "October 31",
+    "reading1": "2 Chronicles 29",
+    "reading2": "Daniel 9",
+    "reading3": "Acts 9"
+  },
+  {
+    "date": "November 1",
+    "reading1": "2 Chronicles 30",
+    "reading2": "Daniel 10",
+    "reading3": "Acts 10"
+  },
+  {
+    "date": "November 2",
+    "reading1": "2 Chronicles 31",
+    "reading2": "Daniel 11",
+    "reading3": "Acts 11, 12"
+  },
+  {
+    "date": "November 3",
+    "reading1": "2 Chronicles 32",
+    "reading2": "Daniel 12",
+    "reading3": "Acts 13"
+  },
+  {
+    "date": "November 4",
+    "reading1": "2 Chronicles 33",
+    "reading2": "Hosea 1",
+    "reading3": "Acts 14, 15"
+  },
+  {
+    "date": "November 5",
+    "reading1": "2 Chronicles 34",
+    "reading2": "Hosea 2",
+    "reading3": "Acts 16, 17"
+  },
+  {
+    "date": "November 6",
+    "reading1": "2 Chronicles 35",
+    "reading2": "Hosea 3",
+    "reading3": "Acts 18, 19"
+  },
+  {
+    "date": "November 7",
+    "reading1": "2 Chronicles 36",
+    "reading2": "Hosea 4",
+    "reading3": "Acts 20"
+  },
+  {
+    "date": "November 8",
+    "reading1": "Ezra 1, 2",
+    "reading2": "Hosea 5",
+    "reading3": "Acts 21, 22"
+  },
+  {
+    "date": "November 9",
+    "reading1": "Ezra 3, 4",
+    "reading2": "Hosea 6",
+    "reading3": "Acts 23, 24"
+  },
+  {
+    "date": "November 10",
+    "reading1": "Ezra 5, 6",
+    "reading2": "Hosea 7",
+    "reading3": "Acts 25, 26"
+  },
+  {
+    "date": "November 11",
+    "reading1": "Ezra 7",
+    "reading2": "Hosea 8",
+    "reading3": "Acts 27"
+  },
+  {
+    "date": "November 12",
+    "reading1": "Ezra 8",
+    "reading2": "Hosea 9",
+    "reading3": "Acts 28"
+  },
+  {
+    "date": "November 13",
+    "reading1": "Ezra 9",
+    "reading2": "Hosea 10",
+    "reading3": "Colossians 1"
+  },
+  {
+    "date": "November 14",
+    "reading1": "Ezra 10",
+    "reading2": "Hosea 11",
+    "reading3": "Colossians 2"
+  },
+  {
+    "date": "November 15",
+    "reading1": "Nehemiah 1, 2",
+    "reading2": "Hosea 12",
+    "reading3": "Colossians 3, 4"
+  },
+  {
+    "date": "November 16",
+    "reading1": "Nehemiah 3",
+    "reading2": "Hosea 13",
+    "reading3": "1 Thessalonians 1, 2"
+  },
+  {
+    "date": "November 17",
+    "reading1": "Nehemiah 4",
+    "reading2": "Hosea 14",
+    "reading3": "1 Thessalonians 3, 4"
+  },
+  {
+    "date": "November 18",
+    "reading1": "Nehemiah 5, 6",
+    "reading2": "Joel 1",
+    "reading3": "1 Thessalonians 5"
+  },
+  {
+    "date": "November 19",
+    "reading1": "Nehemiah 7",
+    "reading2": "Joel 2",
+    "reading3": "2 Thessalonians 1, 2"
+  },
+  {
+    "date": "November 20",
+    "reading1": "Nehemiah 8",
+    "reading2": "Joel 3",
+    "reading3": "2 Thessalonians 3"
+  },
+  {
+    "date": "November 21",
+    "reading1": "Nehemiah 9",
+    "reading2": "Amos 1",
+    "reading3": "1 Timothy 1–3"
+  },
+  {
+    "date": "November 22",
+    "reading1": "Nehemiah 10",
+    "reading2": "Amos 2",
+    "reading3": "1 Timothy 4, 5"
+  },
+  {
+    "date": "November 23",
+    "reading1": "Nehemiah 11",
+    "reading2": "Amos 3",
+    "reading3": "1 Timothy 6"
+  },
+  {
+    "date": "November 24",
+    "reading1": "Nehemiah 12",
+    "reading2": "Amos 4",
+    "reading3": "2 Timothy 1"
+  },
+  {
+    "date": "November 25",
+    "reading1": "Nehemiah 13",
+    "reading2": "Amos 5",
+    "reading3": "2 Timothy 2"
+  },
+  {
+    "date": "November 26",
+    "reading1": "Esther 1",
+    "reading2": "Amos 6",
+    "reading3": "2 Timothy 3, 4"
+  },
+  {
+    "date": "November 27",
+    "reading1": "Esther 2",
+    "reading2": "Amos 7",
+    "reading3": "Titus 1–3"
+  },
+  {
+    "date": "November 28",
+    "reading1": "Esther 3, 4",
+    "reading2": "Amos 8",
+    "reading3": "Philemon"
+  },
+  {
+    "date": "November 29",
+    "reading1": "Esther 5, 6",
+    "reading2": "Amos 9",
+    "reading3": "Hebrews 1, 2"
+  },
+  {
+    "date": "November 30",
+    "reading1": "Esther 7, 8",
+    "reading2": "Obadiah 1",
+    "reading3": "Hebrews 3–5"
+  },
+  {
+    "date": "December 1",
+    "reading1": "Esther 9, 10",
+    "reading2": "Jonah 1",
+    "reading3": "Hebrews 6, 7"
+  },
+  {
+    "date": "December 2",
+    "reading1": "Job 1, 2",
+    "reading2": "Jonah 2, 3",
+    "reading3": "Hebrews 8, 9"
+  },
+  {
+    "date": "December 3",
+    "reading1": "Job 3, 4",
+    "reading2": "Jonah 4",
+    "reading3": "Hebrews 10"
+  },
+  {
+    "date": "December 4",
+    "reading1": "Job 5",
+    "reading2": "Micah 1",
+    "reading3": "Hebrews 11"
+  },
+  {
+    "date": "December 5",
+    "reading1": "Job 6, 7",
+    "reading2": "Micah 2",
+    "reading3": "Hebrews 12"
+  },
+  {
+    "date": "December 6",
+    "reading1": "Job 8",
+    "reading2": "Micah 3, 4",
+    "reading3": "Hebrews 13"
+  },
+  {
+    "date": "December 7",
+    "reading1": "Job 9",
+    "reading2": "Micah 5",
+    "reading3": "James 1"
+  },
+  {
+    "date": "December 8",
+    "reading1": "Job 10",
+    "reading2": "Micah 6",
+    "reading3": "James 2"
+  },
+  {
+    "date": "December 9",
+    "reading1": "Job 11",
+    "reading2": "Micah 7",
+    "reading3": "James 3, 4"
+  },
+  {
+    "date": "December 10",
+    "reading1": "Job 12",
+    "reading2": "Nahum 1, 2",
+    "reading3": "James 5"
+  },
+  {
+    "date": "December 11",
+    "reading1": "Job 13",
+    "reading2": "Nahum 3",
+    "reading3": "1 Peter 1"
+  },
+  {
+    "date": "December 12",
+    "reading1": "Job 14",
+    "reading2": "Habakkuk 1",
+    "reading3": "1 Peter 2"
+  },
+  {
+    "date": "December 13",
+    "reading1": "Job 15",
+    "reading2": "Habakkuk 2",
+    "reading3": "1 Peter 3–5"
+  },
+  {
+    "date": "December 14",
+    "reading1": "Job 16, 17",
+    "reading2": "Habakkuk 3",
+    "reading3": "2 Peter 1, 2"
+  },
+  {
+    "date": "December 15",
+    "reading1": "Job 18, 19",
+    "reading2": "Zephaniah 1",
+    "reading3": "2 Peter 3"
+  },
+  {
+    "date": "December 16",
+    "reading1": "Job 20",
+    "reading2": "Zephaniah 2",
+    "reading3": "1 John 1, 2"
+  },
+  {
+    "date": "December 17",
+    "reading1": "Job 21",
+    "reading2": "Zephaniah 3",
+    "reading3": "1 John 3, 4"
+  },
+  {
+    "date": "December 18",
+    "reading1": "Job 22",
+    "reading2": "Haggai 1, 2",
+    "reading3": "1 John 5"
+  },
+  {
+    "date": "December 19",
+    "reading1": "Job 23, 24",
+    "reading2": "Zechariah 1",
+    "reading3": "2 & 3 John"
+  },
+  {
+    "date": "December 20",
+    "reading1": "Job 25–27",
+    "reading2": "Zechariah 2, 3",
+    "reading3": "Jude"
+  },
+  {
+    "date": "December 21",
+    "reading1": "Job 28",
+    "reading2": "Zechariah 4, 5",
+    "reading3": "Revelation 1, 2"
+  },
+  {
+    "date": "December 22",
+    "reading1": "Job 29, 30",
+    "reading2": "Zechariah 6, 7",
+    "reading3": "Revelation 3, 4"
+  },
+  {
+    "date": "December 23",
+    "reading1": "Job 31, 32",
+    "reading2": "Zechariah 8",
+    "reading3": "Revelation 5, 6"
+  },
+  {
+    "date": "December 24",
+    "reading1": "Job 33",
+    "reading2": "Zechariah 9",
+    "reading3": "Revelation 7–9"
+  },
+  {
+    "date": "December 25",
+    "reading1": "Job 34",
+    "reading2": "Zechariah 10",
+    "reading3": "Revelation 10, 11"
+  },
+  {
+    "date": "December 26",
+    "reading1": "Job 35, 36",
+    "reading2": "Zechariah 11",
+    "reading3": "Revelation 12, 13"
+  },
+  {
+    "date": "December 27",
+    "reading1": "Job 37",
+    "reading2": "Zechariah 12",
+    "reading3": "Revelation 14"
+  },
+  {
+    "date": "December 28",
+    "reading1": "Job 38",
+    "reading2": "Zechariah 13, 14",
+    "reading3": "Revelation 15, 16"
+  },
+  {
+    "date": "December 29",
+    "reading1": "Job 39",
+    "reading2": "Malachi 1",
+    "reading3": "Revelation 17, 18"
+  },
+  {
+    "date": "December 30",
+    "reading1": "Job 40",
+    "reading2": "Malachi 2",
+    "reading3": "Revelation 19, 20"
+  },
+  {
+    "date": "December 31",
+    "reading1": "Job 41, 42",
+    "reading2": "Malachi 3, 4",
+    "reading3": "Revelation 21, 22"
+  }
+]
